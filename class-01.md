@@ -1,6 +1,5 @@
-# March 29, 2020
-
-# 1: Structure 
+# HTML & CSS
+## Structure 
 
 
 ```html
@@ -42,11 +41,11 @@ Act like containers. They tell you something about the information that lies bet
 content management systems: blogging platform, or e-commerce application. 
 * usually allow you to edit parts of the page rather than the entire page. 
 
-# 8 Extra Markup
+## 8 Extra Markup
 * **id attribute**: uniquely identify an element from other elements on the page
 * **class attribute**: a way to identify several elements. 
 
-## Grouping Text and Elements Inline
+### Grouping Text and Elements Inline
 **block elements**: elements that always appear to start on a new line in the browser window. <br>
 **inline elements**: will always appear to continue on the same line as their neighbouring elements. 
 
@@ -73,7 +72,7 @@ content management systems: blogging platform, or e-commerce application.
 ```
 * a little window that has been cut into your page - and in that window you can see another page (ie a map)
 
-# HTML5 Layout
+## HTML5 Layout
 ```html
 <nav></nav>
 ```
@@ -137,7 +136,7 @@ header, section, footer, aside, nav, article, figure, caption {
     display: block; 
 }
 ```
-# 18 Process & Design
+## 18 Process & Design
 Questions to ask yourself
 * who is the site for 
 * why people visit your site
@@ -146,3 +145,18 @@ Questions to ask yourself
 * how often people will visit your site
 
 Use a site map to organize the layout of your entire site and how people will navigate it. 
+
+# JavaScript and JQuery 
+## 1a What is a Script and How do I Create One? 
+
+A script is a series of instructions that a computer can follow to achieve a goal. <br>
+<br>
+Start with the big picture of what you want to achieve and break down into smaller steps. 
+1. define the goal
+2. design the script 
+* split the goal out into a series of tasks that are going to be involved in solving the puzzle. (flowchart)
+* write down the individual steps that the computer needs to perform in order to complete ach individual task. 
+3. code each step 
+
+Web browsers are programs built using objects 
+* **document** object reprsents the entire webpage. all web browsers implement this object 
